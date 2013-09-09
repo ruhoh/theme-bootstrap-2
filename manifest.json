@@ -1,4 +1,5 @@
 { 
-  "author" : "Jacob Thornton and Mark Otto",
-  "website" : "http://twitter.github.com/bootstrap"
+  "website" : "http://twitter.github.com/bootstrap",
+  "description" : "Base theme based on Twitter Bootstrap v2",
+  "ruhoh-spec" : "2.1"
 }
